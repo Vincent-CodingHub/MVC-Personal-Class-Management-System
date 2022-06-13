@@ -1,1 +1,1 @@
-Repo for personal class management system using MVC pattern
+Repo for personal class management system using MVC pattern methodology
